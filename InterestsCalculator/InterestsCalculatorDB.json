@@ -1,0 +1,22 @@
+{
+  "Customers": [
+    {
+      "id": "1",
+      "birthData": "2005-02-16",
+      "firstName": "Tal",
+      "lastName": "Barazani"
+    },
+    {
+      "id": "2",
+      "birthData": "1995-02-16",
+      "firstName": "Tal",
+      "lastName": "Barazani"
+    },
+    {
+      "id": "3",
+      "birthData": "1980-02-16",
+      "firstName": "Tal",
+      "lastName": "Barazani"
+    }
+  ]
+}

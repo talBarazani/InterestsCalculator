@@ -1,0 +1,6 @@
+@InterestsCalculator_HostAddress = http://localhost:5182
+
+GET {{InterestsCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
